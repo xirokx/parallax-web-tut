@@ -8,6 +8,20 @@ body, html{
   color: #666;
 }
 
+.pimg1, .pimg2, .pimg3{
+  position: relative;
+  opacity: 0.70;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  /*
+    fixed = Parallax
+    scroll = normal
+  */
+  background-attachment: fixed;
+}
+
 .pimg1{
   background-image: url('../img/day.jpg');
   min-height: 100%;
