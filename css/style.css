@@ -17,3 +17,8 @@ body, html{
   background-image: url('../img/london_night.jpg');
   min-height: 400px;
 }
+
+.pimg3{
+  background-image: url('../img/thames.jpg');
+  min-height: 400px;
+}
