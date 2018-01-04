@@ -12,3 +12,8 @@ body, html{
   background-image: url('../img/day.jpg');
   min-height: 100%;
 }
+
+.pimg2{
+  background-image: url('../img/london_night.jpg');
+  min-height: 400px;
+}
